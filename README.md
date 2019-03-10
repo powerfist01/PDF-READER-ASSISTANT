@@ -15,7 +15,7 @@ Execute the following command to install the required third party libraries:<br 
 # Usage:
 Clone this repository:
 
-`git clone https://github.com/Manit1998/PDF-READER-ASSISTANT.git`
+`git clone https://github.com/powerfist01/PDF-READER-ASSISTANT.git`
 
 Run this command to start the app:
 
